@@ -19,4 +19,8 @@ console.log('s23')
 console.log('hi')
 console.log('hi')
 console.log('hi32')
+<<<<<<< HEAD
 console.log('main Hello')
+=======
+console.log('helloThere')
+>>>>>>> helloThere
