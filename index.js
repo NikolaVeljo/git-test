@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 console.log('a')
 console.log('hello')
 console.log('hello2');
@@ -32,6 +31,4 @@ console.log('hello')
 console.log('hello2')
 console.log('hello2')
 console.log('hello3')
-=======
-
->>>>>>> delete
+console.log('hello4')
